@@ -1,15 +1,20 @@
 .botonsi {
     background-color: green;
     color: white;
-    box-sizing: 30px;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
 }
 
 .botono {
     background-color: red;
     color: white;
-    box-sizing: 30px;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
 }
 .Hola {
+    justify-content: center;
     text-align: center;
     font-size: 30px;
     border-color: black;
