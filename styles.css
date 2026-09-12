@@ -1,17 +1,21 @@
 .botonsi {
+    display: flex;
     background-color: green;
     color: white;
     justify-content: center;
-    height: 50px;
-    width: 50px;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
 }
 
 .botono {
+    display: flex;
     background-color: red;
     color: white;
     justify-content: center;
-    height: 50px;
-    width: 50px;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
 }
 .Hola {
     justify-content: center;
